@@ -4,3 +4,10 @@
     <string name="texto_risotto">RISOTO CREMOSO</string>
     <string name="texto_rondelli">RONDELLI ITALIANO</string>
 </resources>
+
+<resources>
+<string name="app_name">Teste Slide</string>
+<string name="texto_sucomaracuja">Suco de maracuja</string>
+<string name="texto_sucolimao">Suco de limao</string>
+<string name="texto_sucomorango">Suco de morango</string>
+</resources>
